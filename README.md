@@ -3,11 +3,6 @@
 ```
 ls
 ```
-## admin
-
-* gfhggh
-* kljl
-
   # to do
 
   * docker
